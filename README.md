@@ -1,20 +1,19 @@
 ### Hey there, I'm [Ahmed](https://www.github.com/a7medayman6)! 👋
 
-## A passionate Egyptian Computer Science Student,.
-- 🎓  2020 graduate from Software Engineering department at Ain Shams University.
-- 👀  Looking for software engineer job.
-- 📚  Learning more about javascript and python.
-- 👯  Looking to collaborate on more open source projects.
-- 📸  Also a video editor and a graphic designer.
+## Computer Science Student, passionate about Security and Game Development.
+- 🎓  Third Year Computer Science Student at Ain Shams University.
+- 📚  Learning more about Python and Java.
+- 📚  Learning more about web app penetration testing and Unity.
+- 👯  Looking to participate on more CTFs.
 - 📌  Lives in Cairo, Egypt.
 
 ### Connect with me:
 
-[<img align="left" alt="Ramyy | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:a.ayman6000@gmail.com)
-[<img align="left" alt="Ramyy | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/a7medayman6)
-[<img align="left" alt="Raamyy | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/14310323/ahmed-ayman)
-[<img align="left" alt="Raamyy | Instaram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instaram.svg" />](https://www.instagram.com/a7med_ayman6)
-
+[<img align="left" alt="a7medayman6 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:a.ayman6000@gmail.com)
+[<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/a7medayman6)
+[<img align="left" alt="a7medayman6 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/14310323/ahmed-ayman)
+[<img align="left" alt="a7medayman6 | Twitter" width="22px" src="http://i.imgur.com/wWzX9uB.png"/>]
+(https://www.instagram.com/a7med_ayman6)
 
 </br>
 
@@ -46,7 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7medayman6&layout=compact&theme=radical)](https://github.com/a7medayman6?tab=repositories)
 
 <!--
-**Raamyy/Raamyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**a7medayman6/a7medayman6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
