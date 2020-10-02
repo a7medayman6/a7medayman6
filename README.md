@@ -1,16 +1,16 @@
 ### Hey there, I'm [Ahmed](https://www.github.com/a7medayman6)! 👋
 
 ## Computer Science Student, passionate about Security and Game Development.
-- 🎓  Third Year Computer Science Student at Ain Shams University.
-- 📚  Learning more about Python and Java.
-- 📚  Learning more about web app penetration testing and Unity.
-- 👯  Looking to participate on more CTFs.
-- 📌  Lives in Cairo, Egypt.
+-   Third Year Computer Science Student at Ain Shams University.
+-   Learning more about Python and Java.
+-   Learning more about web app penetration testing and Unity.
+-   Looking to participate on more CTFs.
+-   Lives in Cairo, Egypt.
 
 ### Connect with me:
 
 [<img align="left" alt="a7medayman6 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:a.ayman6000@gmail.com)
-[<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/a7medayman6)
+[<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/a7medayman6/)
 [<img align="left" alt="a7medayman6 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/14310323/ahmed-ayman)
 [<img align="left" alt="a7medayman6 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/a7med_ayman66)
 
