@@ -12,8 +12,7 @@
 [<img align="left" alt="a7medayman6 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:a.ayman6000@gmail.com)
 [<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/a7medayman6)
 [<img align="left" alt="a7medayman6 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/14310323/ahmed-ayman)
-[<img align="left" alt="a7medayman6 | Twitter" width="22px" src="http://i.imgur.com/wWzX9uB.png"/>]
-(https://twitter.com/a7med_ayman66)
+[<img align="left" alt="a7medayman6 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/a7med_ayman66)
 
 </br>
 
