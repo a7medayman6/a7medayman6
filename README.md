@@ -38,7 +38,7 @@
 
 - Check out some of my algorithms visualisation: [BFS](https://github.com/a7medayman6/Breadth-First-Search-Visualization) - [DFS](https://github.com/a7medayman6/Depth-First-Search-Visualization) - [Sudoko Generator and Solver](https://github.com/a7medayman6/Sudoku-Generator-and-Solver).
 - Check out some of my Web App Peneteration Testing Tools: [Spider](https://github.com/a7medayman6/Spidering-Tool) - [Dirbuster](https://github.com/a7medayman6/dirbuster) - [Ping](https://github.com/a7medayman6/Connection-Checker). 
-- Check out my first Android Project:[To Do List](https://github.com/a7medayman6/To-Do-List).
+- Check out my first Android Project: [To Do List](https://github.com/a7medayman6/To-Do-List).
 - Some ArtWorks with Processing: [PI Day](https://github.com/a7medayman6/PI-Digits-Artworks)
 
 
