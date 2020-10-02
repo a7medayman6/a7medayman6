@@ -1,6 +1,6 @@
-### Hey there, I'm [Raamyy](https://www.github.com/Raamyy)! 👋
+### Hey there, I'm [Ahmed](https://www.github.com/a7medayman6)! 👋
 
-## A passionate Egyptian junior software engineer that loves contributing and creating open source projects.
+## A passionate Egyptian Computer Science Student,.
 - 🎓  2020 graduate from Software Engineering department at Ain Shams University.
 - 👀  Looking for software engineer job.
 - 📚  Learning more about javascript and python.
@@ -10,10 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ramyy | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:ramyeg26@gmail.com)
-[<img align="left" alt="Ramyy | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/Raamyy)
-[<img align="left" alt="Raamyy | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/8142985/raamyy)
-[<img align="left" alt="Raamyy | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />](https://www.behance.net/Ramy2612)
+[<img align="left" alt="Ramyy | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:a.ayman6000@gmail.com)
+[<img align="left" alt="Ramyy | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/a7medayman6)
+[<img align="left" alt="Raamyy | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/14310323/ahmed-ayman)
+[<img align="left" alt="Raamyy | Instaram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instaram.svg" />](https://www.instagram.com/a7med_ayman6)
+
 
 </br>
 
@@ -40,9 +41,9 @@
 <br />
 <br />
 
-[![Raamyy's github stats](https://github-readme-stats.vercel.app/api?username=Raamyy&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Raamyy?tab=repositories)
+[![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=a7medayman6&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/a7medayman6?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raamyy&layout=compact&theme=radical)](https://github.com/Raamyy?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7medayman6&layout=compact&theme=radical)](https://github.com/a7medayman6?tab=repositories)
 
 <!--
 **Raamyy/Raamyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
