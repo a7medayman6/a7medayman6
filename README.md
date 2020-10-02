@@ -43,7 +43,7 @@
 
 
 <br />
-[![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=a7medayman6&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/a7medayman6?tab=repositories)
+[![a7medayman6's github stats](https://github-readme-stats.vercel.app/api?username=a7medayman6&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/a7medayman6?tab=repositories)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7medayman6&layout=compact&theme=radical)](https://github.com/a7medayman6?tab=repositories)
 
