@@ -2,46 +2,62 @@
 
 ## Computer Science Student, passionate about Security and Game Development.
 -   Third Year Computer Science Student at Ain Shams University.
--   Learning more about Python and Java.
--   Learning more about web app penetration testing and Unity.
--   Looking to participate on more CTFs.
+-   Linux Enthusiast.
+-   Learning about DevOps.
+-   Learning more about web app penetration testing.
+-   Looking to contribute more to the open-source world.
 -   Lives in Cairo, Egypt.
 
 ### Connect with me:
 
-[<img align="left" alt="a7medayman6 | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:a.ayman6000@gmail.com)
-[<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/a7medayman6/)
-[<img align="left" alt="a7medayman6 | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />](https://stackoverflow.com/users/14310323/ahmed-ayman)
-[<img align="left" alt="a7medayman6 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/a7med_ayman66)
+[<img align="left" alt="a7medayman6 | email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1615228050~hmac=8c3f22f8096aecfa29ec90165760d0de" />](mailto:a.ayman6000@gmail.com)
+[<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/3256/3256016.svg" />](https://www.linkedin.com/in/a7medayman6/)
+[<img align="left" alt="a7medayman6 | Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1615228119~hmac=3ef84ab214355d0f33aa1090ef450ab3"/>](https://twitter.com/a7med_ayman66)
+[<img align="left" alt="a7medayman6 | Stackoverflow" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1615228170~hmac=f29245315f746abab57773fc394c3d6f" />](https://stackoverflow.com/users/14310323/ahmed-ayman)
+
 
 </br>
 
 
-### Some Projects:
+### Projects:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
-[<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]()
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
-[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]()
-[<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="android" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/android/android.png" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-[<img align="left" alt="unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />]()
+- Python Projects
+  1. [Virus Detector](https://github.com/a7medayman6/Virus-Detector)
+  2. [Password Manager](https://github.com/a7medayman6/Password-Manager)
+  3. [Simple Linear Regression](https://github.com/a7medayman6/Simple-Linear-Regression)
+  4. [Multi-Variable Linear Regression](https://github.com/a7medayman6/Multi-Variable-Linear-Regression)
 
-<br />
-<br />
+- Bash 
+  1. [Self Replicating Virus](https://github.com/a7medayman6/Self-Replicating-Virus)
+  2. Started a bash-jam in my community [Bash-Jam](https://github.com/a7medayman6/BASH-JAM-I) 
+  3. [Over The Wire Challenges Writeups](https://github.com/a7medayman6/Over-The-Wire_leviathan-)
+  
+- My LeetCode Algorithms, Database, and Shell problems solutions
+  - [100 Days of LeetCode](https://github.com/a7medayman6/100-Days-of-LeetCode)
+  
+- Algorithms Visualisation:
+  1.[BFS](https://github.com/a7medayman6/Breadth-First-Search-Visualization) 
+  2.[DFS](https://github.com/a7medayman6/Depth-First-Search-Visualization) 
+  3.[Sudoko Generator and Solver](https://github.com/a7medayman6/Sudoku-Generator-and-Solver).
+ 
+- Web App Peneteration Testing Tools: 
+  1. [Spider](https://github.com/a7medayman6/Spidering-Tool) 
+  2. [Dirbuster](https://github.com/a7medayman6/dirbuster) 
+  3. [Ping](https://github.com/a7medayman6/Connection-Checker). 
 
-- Check out some of my algorithms visualisation: [BFS](https://github.com/a7medayman6/Breadth-First-Search-Visualization) - [DFS](https://github.com/a7medayman6/Depth-First-Search-Visualization) - [Sudoko Generator and Solver](https://github.com/a7medayman6/Sudoku-Generator-and-Solver).
-- Check out some of my Web App Peneteration Testing Tools: [Spider](https://github.com/a7medayman6/Spidering-Tool) - [Dirbuster](https://github.com/a7medayman6/dirbuster) - [Ping](https://github.com/a7medayman6/Connection-Checker). 
-- Check out my first Android Project: [To Do List](https://github.com/a7medayman6/To-Do-List).
-- Some ArtWorks with Processing: [PI Day](https://github.com/a7medayman6/PI-Digits-Artworks)
-- Check my first UI design project [TODO](https://github.com/a7medayman6/TO-DO-LIST-APP-UI)
+- Android Projects: 
+  1. [To Do List App UI](https://github.com/a7medayman6/To-Do-List).
 
+- Some ArtWorks with Processing: 
+  1. [PI Day](https://github.com/a7medayman6/PI-Digits-Artworks)
+ 
+- UI design project using Adobe XD: 
+  1. [TODO](https://github.com/a7medayman6/TO-DO-LIST-APP-UI)
+  
+- Games
+  1. [Pong Game using Unity](https://github.com/a7medayman6/Pong-Unity)
+  2. [Trapped - Game Jam project using Unity](https://github.com/a7medayman6/Trapped)
+  3. [Pacman - using C++ and SFML](https://github.com/a7medayman6/PacMan-with-impossible-mode)
 
 <br />
 
