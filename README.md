@@ -35,10 +35,10 @@
 - My LeetCode Algorithms, Database, and Shell problems solutions
   - [100 Days of LeetCode](https://github.com/a7medayman6/100-Days-of-LeetCode)
   
-- Algorithms Visualisation:
-  1.[BFS](https://github.com/a7medayman6/Breadth-First-Search-Visualization) 
-  2.[DFS](https://github.com/a7medayman6/Depth-First-Search-Visualization) 
-  3.[Sudoko Generator and Solver](https://github.com/a7medayman6/Sudoku-Generator-and-Solver).
+- Algorithms Visualisation: </br>
+  1.[BFS](https://github.com/a7medayman6/Breadth-First-Search-Visualization) </br>
+  2.[DFS](https://github.com/a7medayman6/Depth-First-Search-Visualization) </br>
+  3.[Sudoko Generator and Solver](https://github.com/a7medayman6/Sudoku-Generator-and-Solver).</br>
  
 - Web App Peneteration Testing Tools: 
   1. [Spider](https://github.com/a7medayman6/Spidering-Tool) 
