@@ -36,9 +36,10 @@
   - [100 Days of LeetCode](https://github.com/a7medayman6/100-Days-of-LeetCode)
   
 - Algorithms Visualisation: </br>
-  1.[BFS](https://github.com/a7medayman6/Breadth-First-Search-Visualization) </br>
-  2.[DFS](https://github.com/a7medayman6/Depth-First-Search-Visualization) </br>
-  3.[Sudoko Generator and Solver](https://github.com/a7medayman6/Sudoku-Generator-and-Solver).</br>
+  1. [Path Finding Combined Algorithms Visualisation](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation)
+  2. [BFS](https://github.com/a7medayman6/Breadth-First-Search-Visualization) </br>
+  4. [DFS](https://github.com/a7medayman6/Depth-First-Search-Visualization) </br>
+  5. [Sudoko Generator and Solver](https://github.com/a7medayman6/Sudoku-Generator-and-Solver).</br>
  
 - Web App Peneteration Testing Tools: 
   1. [Spider](https://github.com/a7medayman6/Spidering-Tool) 
@@ -58,6 +59,9 @@
   1. [Pong Game using Unity](https://github.com/a7medayman6/Pong-Unity)
   2. [Trapped - Game Jam project using Unity](https://github.com/a7medayman6/Trapped)
   3. [Pacman - using C++ and SFML](https://github.com/a7medayman6/PacMan-with-impossible-mode)
+
+- Assembly 
+  1. [Assembly Cheat Sheet](https://github.com/a7medayman6/Assembly-Cheat-Sheet)
 
 <br />
 
