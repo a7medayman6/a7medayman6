@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="a7medayman6 | email" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/732/732200.svg?token=exp=1615228050~hmac=8c3f22f8096aecfa29ec90165760d0de" />](mailto:a.ayman6000@gmail.com)
-[<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="https://www.flaticon.com/premium-icon/icons/svg/3256/3256016.svg" />](https://www.linkedin.com/in/a7medayman6/)
-[<img align="left" alt="a7medayman6 | Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1615228119~hmac=3ef84ab214355d0f33aa1090ef450ab3"/>](https://twitter.com/a7med_ayman66)
-[<img align="left" alt="a7medayman6 | Stackoverflow" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1615228170~hmac=f29245315f746abab57773fc394c3d6f" />](https://stackoverflow.com/users/14310323/ahmed-ayman)
+[<img align="left" alt="a7medayman6 | email" width="22px" src="Images/gmail.png" />](mailto:a.ayman6000@gmail.com)
+[<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="Images/linkedin.png" />](https://www.linkedin.com/in/a7medayman6/)
+[<img align="left" alt="a7medayman6 | Twitter" width="22px" src="Images/twitter.png"/>](https://twitter.com/a7med_ayman66)
+[<img align="left" alt="a7medayman6 | Stackoverflow" width="22px" src="Images/stack-overflow.png" />](https://stackoverflow.com/users/14310323/ahmed-ayman)
 
 
 </br>
