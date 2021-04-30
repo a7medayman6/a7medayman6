@@ -35,24 +35,24 @@
 ### My LeetCode Algorithms, Database, and Shell problems solutions
   - [100 Days of LeetCode](https://github.com/a7medayman6/100-Days-of-LeetCode)
   
-### Algorithms Visualisation: </br>
+### Algorithms Visualisation </br>
   1. [Path Finding Combined Algorithms Visualisation](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation)
   2. [BFS](https://github.com/a7medayman6/Breadth-First-Search-Visualization) </br>
   4. [DFS](https://github.com/a7medayman6/Depth-First-Search-Visualization) </br>
   5. [Sudoko Generator and Solver](https://github.com/a7medayman6/Sudoku-Generator-and-Solver).</br>
  
-### Web App Peneteration Testing Tools: 
+### Web App Peneteration Testing Tools
   1. [Spider](https://github.com/a7medayman6/Spidering-Tool) 
   2. [Dirbuster](https://github.com/a7medayman6/dirbuster) 
   3. [Ping](https://github.com/a7medayman6/Connection-Checker). 
 
-### Android Projects: 
+### Android Projects
   1. [To Do List App UI](https://github.com/a7medayman6/To-Do-List).
 
-### Some ArtWorks with Processing: 
+### Some ArtWorks with Processing
   1. [PI Day](https://github.com/a7medayman6/PI-Digits-Artworks)
  
-### UI design project using Adobe XD: 
+### UI design project using Adobe XD
   1. [TODO](https://github.com/a7medayman6/TO-DO-LIST-APP-UI)
   
 ### Games
