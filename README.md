@@ -51,13 +51,13 @@
   3. [Ping](https://github.com/a7medayman6/Connection-Checker). 
 
 ### Android Projects
-  1. [To Do List App UI](https://github.com/a7medayman6/To-Do-List).
+  1. [To Do List App](https://github.com/a7medayman6/To-Do-List).
 
 ### Some ArtWorks with Processing
   1. [PI Day](https://github.com/a7medayman6/PI-Digits-Artworks)
  
 ### UI design project using Adobe XD
-  1. [TODO](https://github.com/a7medayman6/TO-DO-LIST-APP-UI)
+  1. [TO-DO List](https://github.com/a7medayman6/TO-DO-LIST-APP-UI)
   
 ### Games
   1. [Pong Game using Unity](https://github.com/a7medayman6/Pong-Unity)
