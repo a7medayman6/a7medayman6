@@ -21,9 +21,11 @@
 
 ## Projects
 
-### Web Projects 
+### Web DevOps Projects 
   1. [Todo List - Docker & Heroku HandsOn](https://github.com/a7medayman6/Todo-List-Dockerized-Flask-WebApp)
   2. [Hello World from Container - Flask Web App](https://github.com/a7medayman6/Hello-World-From-Container)
+  3. [GoViolin - Go Web App](https://github.com/a7medayman6/GoViolin)
+  4. [OSCGEEKS.ORG - LEMP Web App](https://github.com/a7medayman6/OSCGEEKS.ORG)
   
 ### Python Projects
   1. [Virus Detector](https://github.com/a7medayman6/Virus-Detector)
@@ -33,7 +35,7 @@
 
 ### Bash 
   1. [Self Replicating Virus](https://github.com/a7medayman6/Self-Replicating-Virus)
-  2. Started a bash-jam in my community [Bash-Jam](https://github.com/a7medayman6/BASH-JAM-I) 
+  2. Started a bash-jam in [my community](https://oscgeeks.org/) [Bash-Jam](https://github.com/a7medayman6/BASH-JAM-I) 
   3. [Over The Wire Challenges Writeups](https://github.com/a7medayman6/Over-The-Wire_leviathan-)
   
 ### My LeetCode Algorithms, Database, and Shell problems solutions
