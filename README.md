@@ -1,10 +1,9 @@
 ### Hey there, I'm [Ahmed](https://a7medayman6.github.io/)! 👋
 
-## Computer Science Student, passionate about DevOps and Security.
--   Senior Computer Science Student at Ain Shams University.
+## DevOps Engineer
+-   Graduated from Computer Science, Ain Shams University.
 -   Linux Enthusiast.
 -   Learning about DevOps.
--   Learning more about web app penetration testing.
 -   Looking to contribute more to the open-source world.
 -   Lives in Cairo, Egypt.
 
