@@ -1,7 +1,8 @@
 ### Hey there, I'm [Ahmed](https://a7medayman6.github.io/)! 👋
 
-## DevOps Engineer
+## Software Engineer
 -   Graduated from Computer Science, Ain Shams University.
+-   Enjoys System Design.
 -   Linux Enthusiast.
 -   Learning about DevOps.
 -   Looking to contribute more to the open-source world.
