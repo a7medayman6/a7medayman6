@@ -50,7 +50,7 @@
 
 <div align="center">
   <a href="https://github.com/a7medayman6/env-box">
-    <img src="https://github.com/a7medayman6/env-box/raw/main/public/logo.svg" alt="EnvBox Logo" width="180" />
+    <img src="https://raw.githubusercontent.com/a7medayman6/env-box/6b13827938bbaefd36ec46a2411f5bb9d426da8e/public/favicon.svg" alt="EnvBox Logo" width="180" />
   </a>
   
   <p><b>The modern, encrypted, and collaborative way to handle .env files.</b></p>
