@@ -1,92 +1,133 @@
-### Hey there, I'm [Ahmed](https://a7medayman6.github.io/)! 👋
-
-## Software Engineer
--   Graduated from Computer Science, Ain Shams University.
--   Enjoys System Design.
--   Linux Enthusiast.
--   Learning about DevOps.
--   Looking to contribute more to the open-source world.
--   Lives in Cairo, Egypt.
-
-### Connect with me:
-
-[<img align="left" alt="a7medayman6 | email" width="22px" src="Images/gmail.png" />](mailto:a.ayman6000@gmail.com)
-[<img align="left" alt="a7medayman6 | Linkedin" width="22px" src="Images/linkedin.png" />](https://www.linkedin.com/in/a7medayman6/)
-[<img align="left" alt="a7medayman6 | Twitter" width="22px" src="Images/twitter.png"/>](https://twitter.com/a7med_ayman66)
-[<img align="left" alt="a7medayman6 | Stackoverflow" width="22px" src="Images/stack-overflow.png" />](https://stackoverflow.com/users/14310323/ahmed-ayman)
-
-
-</br>
-
-
-## Projects
-
-### Web DevOps Projects 
-  1. [Todo List - Docker & Heroku HandsOn](https://github.com/a7medayman6/Todo-List-Dockerized-Flask-WebApp)
-  2. [Hello World from Container - Flask Web App](https://github.com/a7medayman6/Hello-World-From-Container)
-  3. [GoViolin - Go Web App](https://github.com/a7medayman6/GoViolin)
-  4. [OSCGEEKS.ORG - LEMP Web App](https://github.com/a7medayman6/OSCGEEKS.ORG)
+<div align="center">
+  <h1>Hi there, I'm Ahmed Ayman 👋</h1>
+  <h3>Software Engineer (Backend) | Shipping & E-commerce</h3>
   
-### Python Projects
-  1. [Tiny Git](https://github.com/a7medayman6/Tiny-Git)
-  2. [Virus Detector](https://github.com/a7medayman6/Virus-Detector)
-  3. [Password Manager](https://github.com/a7medayman6/Password-Manager)
-  4. [Simple Linear Regression](https://github.com/a7medayman6/Simple-Linear-Regression)
-  5. [Multi-Variable Linear Regression](https://github.com/a7medayman6/Multi-Variable-Linear-Regression)
+  <p>
+    Passionate about building scalable backend systems and solving complex logistics challenges.
+    <br />
+    Currently shipping code at <b>Bosta</b>.
+  </p>
 
-### Bash 
-  1. [Self Replicating Virus](https://github.com/a7medayman6/Self-Replicating-Virus)
-  2. Started a bash-jam in [my community](https://oscgeeks.org/) [Bash-Jam](https://github.com/a7medayman6/BASH-JAM-I) 
-  3. [Over The Wire Challenges Writeups](https://github.com/a7medayman6/Over-The-Wire_leviathan-)
+  <p>
+    <a href="https://github.com/a7medayman6">
+      <img src="https://img.shields.io/github/followers/a7medayman6?label=Follow&style=social" alt="GitHub Followers" />
+    </a>
+    <a href="https://twitter.com/">
+      <img src="https://img.shields.io/twitter/follow/yourhandle?label=Follow&style=social" alt="Twitter Follow" />
+    </a>
+  </p>
+</div>
+
+---
+
+## 👨‍💻 Work Experience
+
+### **Bosta** (3 Years)
+**Software Engineer (Backend)**
+*Leading shipping and logistics company in Egypt.*
+
+- 📦 **Shipping & Fulfillment**: Engineered robust backend solutions to streamline shipping operations and fulfillment processes.
+- 🛒 **E-commerce Integration**: Developed and maintained integrations for seamless e-commerce experiences.
+- 🚀 **Scalability**: Optimized high-traffic systems to handle thousands of daily orders with high availability.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| Backend | Frontend | Tools & DevOps |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=nestjs,nodejs,mongodb,ts" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" /> |
+
+</div>
+
+---
+
+## 🌟 Projects
+
+### 🚀 Featured: EnvBox
+
+<div align="center">
+  <a href="https://github.com/a7medayman6/env-box">
+    <img src="https://github.com/a7medayman6/env-box/raw/main/public/logo.svg" alt="EnvBox Logo" width="180" />
+  </a>
   
-### My LeetCode Algorithms, Database, and Shell problems solutions
-  - [100 Days of LeetCode](https://github.com/a7medayman6/100-Days-of-LeetCode)
-  
-### Algorithms Visualisation </br>
-  1. [Path Finding Combined Algorithms Visualisation](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation)
-  2. [BFS](https://github.com/a7medayman6/Breadth-First-Search-Visualization) </br>
-  4. [DFS](https://github.com/a7medayman6/Depth-First-Search-Visualization) </br>
-  5. [Sudoko Generator and Solver](https://github.com/a7medayman6/Sudoku-Generator-and-Solver).</br>
- 
-### Web App Peneteration Testing Tools
-  1. [Spider](https://github.com/a7medayman6/Spidering-Tool) 
-  2. [Dirbuster](https://github.com/a7medayman6/dirbuster) 
-  3. [Ping](https://github.com/a7medayman6/Connection-Checker). 
+  <p><b>The modern, encrypted, and collaborative way to handle .env files.</b></p>
 
-### Android Projects
-  1. [To Do List App](https://github.com/a7medayman6/To-Do-List).
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js" />
+    <img src="https://img.shields.io/badge/MongoDB-Latest-green?style=flat-square&logo=mongodb" />
+    <img src="https://img.shields.io/badge/TypeScript-Ready-blue?style=flat-square&logo=typescript" />
+    <img src="https://img.shields.io/badge/Security-AES--256-red?style=flat-square&logo=security" />
+  </p>
+</div>
 
-### Some ArtWorks with Processing
-  1. [PI Day](https://github.com/a7medayman6/PI-Digits-Artworks)
- 
-### UI design project using Adobe XD
-  1. [TO-DO List](https://github.com/a7medayman6/TO-DO-LIST-APP-UI)
-  
-### Games
-  1. [Pong Game using Unity](https://github.com/a7medayman6/Pong-Unity)
-  2. [Trapped - Game Jam project using Unity](https://github.com/a7medayman6/Trapped)
-  3. [Pacman - using C++ and SFML](https://github.com/a7medayman6/PacMan-with-impossible-mode)
+**EnvBox** is a secure, collaborative environment variable manager designed to simplify development workflows.
 
-### Assembly 
-  1. [Assembly Cheat Sheet](https://github.com/a7medayman6/Assembly-Cheat-Sheet)
+- 🔐 **End-to-End Encryption**: AES-256 encryption for maximum security.
+- 👥 **Team Collaboration**: Granular roles and permissions for teams.
+- 🌍 **Environment Management**: Switch between Dev, Staging, and Prod effortlessly.
+- 🛡️ **Variable Masking**: Immutable masking for sensitive keys.
+
+[**View Project**](https://github.com/a7medayman6/env-box)
 
 <br />
 
-[![Ahmed Ayman's github stats](https://github-readme-stats.vercel.app/api?username=a7medayman6&hide=stars&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/a7medayman6?tab=repositories)
+### ☁️ Web & DevOps
+*Containerization, Cloud Deployments, and Web Applications*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7medayman6&layout=compact&theme=radical)](https://github.com/a7medayman6?tab=repositories)
+- [**Todo List - Docker & Heroku**](https://github.com/a7medayman6/Todo-List-Dockerized-Flask-WebApp): Containerized Flask app demonstrating CI/CD pipelines and Docker orchestration.
+- [**Hello World Container**](https://github.com/a7medayman6/Hello-World-From-Container): Simple Flask web app running inside a Docker container.
+- [**GoViolin**](https://github.com/a7medayman6/GoViolin): A web application built with Go.
+- [**OSCGEEKS.ORG**](https://github.com/a7medayman6/OSCGEEKS.ORG): LEMP stack web application.
 
-<!--
-**a7medayman6/a7medayman6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python & Automation
+*Scripting, Security Tools, and Data Science*
 
-Here are some ideas to get you started:
+- [**Tiny Git**](https://github.com/a7medayman6/Tiny-Git): A minimal implementation of Git version control.
+- [**Virus Detector**](https://github.com/a7medayman6/Virus-Detector): Python-based virus detection tool.
+- [**Password Manager**](https://github.com/a7medayman6/Password-Manager): Secure local password management solution.
+- [**Linear Regression**](https://github.com/a7medayman6/Simple-Linear-Regression): Implementation of simple linear regression.
+- [**Multi-Variable Regression**](https://github.com/a7medayman6/Multi-Variable-Linear-Regression): Advanced regression analysis implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Algorithms & Data Structures
+*Problem Solving and Visualizations*
+
+- [**100 Days of LeetCode**](https://github.com/a7medayman6/100-Days-of-LeetCode): Collection of solutions for LeetCode problems.
+- [**Path Finding Visualizer**](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation): Interactive visualization of pathfinding algorithms.
+- [**BFS Visualization**](https://github.com/a7medayman6/Breadth-First-Search-Visualization): Breadth-First Search algorithm visualizer.
+- [**DFS Visualization**](https://github.com/a7medayman6/Depth-First-Search-Visualization): Depth-First Search algorithm visualizer.
+- [**Sudoku Solver**](https://github.com/a7medayman6/Sudoku-Generator-and-Solver): Sudoku generator and solver algorithm.
+
+### 🛡️ Security & Tools
+*Penetration Testing and Network Tools*
+
+- [**Spidering Tool**](https://github.com/a7medayman6/Spidering-Tool): Web crawler for information gathering.
+- [**Dirbuster**](https://github.com/a7medayman6/dirbuster): Directory brute-forcing tool.
+- [**Connection Checker**](https://github.com/a7medayman6/Connection-Checker): Network connectivity testing tool (Ping).
+- [**Self Replicating Virus**](https://github.com/a7medayman6/Self-Replicating-Virus): Educational Bash script demonstrating replication.
+- [**Over The Wire Writeups**](https://github.com/a7medayman6/Over-The-Wire_leviathan-): Solutions for Leviathan wargames.
+
+### 🎮 Game Development
+*Interactive Experiences and Game Logic*
+
+- [**Pong (Unity)**](https://github.com/a7medayman6/Pong-Unity): Classic Pong game recreated in Unity.
+- [**Trapped (Unity)**](https://github.com/a7medayman6/Trapped): Game Jam project built with Unity.
+- [**Pacman (C++ & SFML)**](https://github.com/a7medayman6/PacMan-with-impossible-mode): Pacman clone featuring an "impossible mode".
+
+### 🎨 Other Creative Works
+*Mobile Apps, Art, and Low-Level Programming*
+
+- [**Android Todo List**](https://github.com/a7medayman6/To-Do-List): Native Android application for task management.
+- [**PI Digits Art**](https://github.com/a7medayman6/PI-Digits-Artworks): Generative art using Processing based on PI digits.
+- [**Todo UI Design**](https://github.com/a7medayman6/TO-DO-LIST-APP-UI): User interface design project in Adobe XD.
+- [**Assembly Cheat Sheet**](https://github.com/a7medayman6/Assembly-Cheat-Sheet): Quick reference guide for Assembly language.
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7medayman6&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medayman6&theme=radical" alt="Ahmed's Streak" />
+</div>
