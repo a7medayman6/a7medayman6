@@ -1,133 +1,116 @@
-<div align="center">
-  <h1>Hi there, I'm Ahmed Ayman 👋</h1>
-  <h3>Software Engineer (Backend) | Shipping & E-commerce</h3>
-  
-  <p>
-    Passionate about building scalable backend systems and solving complex logistics challenges.
-    <br />
-    Currently shipping code at <b>Bosta</b>.
-  </p>
+# Ahmed Ayman
 
-  <p>
-    <a href="https://github.com/a7medayman6">
-      <img src="https://img.shields.io/github/followers/a7medayman6?label=Follow&style=social" alt="GitHub Followers" />
-    </a>
-    <a href="https://twitter.com/">
-      <img src="https://img.shields.io/twitter/follow/yourhandle?label=Follow&style=social" alt="Twitter Follow" />
-    </a>
-  </p>
-</div>
+**Senior Backend Engineer** — distributed systems, event-driven architecture, scalable APIs
+
+I build production backend systems that handle real load. Currently at [Bosta](https://bosta.co), owning fulfillment infrastructure that processes 8K–14K+ daily orders for 1,500+ merchants. Previously architected a social commerce platform serving 25K+ merchants.
+
+Cairo, Egypt · [LinkedIn](https://linkedin.com/in/a7medayman6) · [Blog](https://a7medayman.hashnode.dev) · a.ayman6000@gmail.com
 
 ---
 
-## 👨‍💻 Work Experience
+## What I Work On
 
-### **Bosta** (3 Years)
-**Software Engineer (Backend)**
-*Leading shipping and logistics company in Egypt.*
+Most of my engineering time goes into:
 
-- 📦 **Shipping & Fulfillment**: Engineered robust backend solutions to streamline shipping operations and fulfillment processes.
-- 🛒 **E-commerce Integration**: Developed and maintained integrations for seamless e-commerce experiences.
-- 🚀 **Scalability**: Optimized high-traffic systems to handle thousands of daily orders with high availability.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Backend | Frontend | Tools & DevOps |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=nestjs,nodejs,mongodb,ts" /> | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" /> | <img src="https://skillicons.dev/icons?i=docker,git,linux,vscode" /> |
-
-</div>
+- **Event-driven microservices** — Pub/Sub, message queues, Saga orchestration, distributed transaction patterns
+- **High-throughput APIs** — webhook ingestion at 2K+ req/min, idempotent processing, replay mechanisms
+- **Multi-tenant SaaS backends** — row-level data isolation, per-tenant middleware, schema migration strategies
+- **Performance engineering** — Node.js event-loop profiling, query optimization, indexing strategies
+- **Infrastructure and CI/CD** — Docker, Kubernetes (GKE), GitLab CI, GitHub Actions, GCP
 
 ---
 
-## 🌟 Projects
+## Tech Stack
 
-### 🚀 Featured: EnvBox
+**Backend**
 
-<div align="center">
-  <a href="https://github.com/a7medayman6/env-box">
-    <img src="https://raw.githubusercontent.com/a7medayman6/env-box/6b13827938bbaefd36ec46a2411f5bb9d426da8e/public/favicon.svg" alt="EnvBox Logo" width="180" />
-  </a>
-  
-  <p><b>The modern, encrypted, and collaborative way to handle .env files.</b></p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js" />
-    <img src="https://img.shields.io/badge/MongoDB-Latest-green?style=flat-square&logo=mongodb" />
-    <img src="https://img.shields.io/badge/TypeScript-Ready-blue?style=flat-square&logo=typescript" />
-    <img src="https://img.shields.io/badge/Security-AES--256-red?style=flat-square&logo=security" />
-  </p>
-</div>
+**Databases & Messaging**
 
-**EnvBox** is a secure, collaborative environment variable manager designed to simplify development workflows.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![GCP Pub/Sub](https://img.shields.io/badge/GCP_Pub%2FSub-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-- 🔐 **End-to-End Encryption**: AES-256 encryption for maximum security.
-- 👥 **Team Collaboration**: Granular roles and permissions for teams.
-- 🌍 **Environment Management**: Switch between Dev, Staging, and Prod effortlessly.
-- 🛡️ **Variable Masking**: Immutable masking for sensitive keys.
+**Infrastructure & DevOps**
 
-[**View Project**](https://github.com/a7medayman6/env-box)
-
-<br />
-
-### ☁️ Web & DevOps
-*Containerization, Cloud Deployments, and Web Applications*
-
-- [**Todo List - Docker & Heroku**](https://github.com/a7medayman6/Todo-List-Dockerized-Flask-WebApp): Containerized Flask app demonstrating CI/CD pipelines and Docker orchestration.
-- [**Hello World Container**](https://github.com/a7medayman6/Hello-World-From-Container): Simple Flask web app running inside a Docker container.
-- [**GoViolin**](https://github.com/a7medayman6/GoViolin): A web application built with Go.
-- [**OSCGEEKS.ORG**](https://github.com/a7medayman6/OSCGEEKS.ORG): LEMP stack web application.
-
-### 🐍 Python & Automation
-*Scripting, Security Tools, and Data Science*
-
-- [**Tiny Git**](https://github.com/a7medayman6/Tiny-Git): A minimal implementation of Git version control.
-- [**Virus Detector**](https://github.com/a7medayman6/Virus-Detector): Python-based virus detection tool.
-- [**Password Manager**](https://github.com/a7medayman6/Password-Manager): Secure local password management solution.
-- [**Linear Regression**](https://github.com/a7medayman6/Simple-Linear-Regression): Implementation of simple linear regression.
-- [**Multi-Variable Regression**](https://github.com/a7medayman6/Multi-Variable-Linear-Regression): Advanced regression analysis implementation.
-
-### 🧠 Algorithms & Data Structures
-*Problem Solving and Visualizations*
-
-- [**100 Days of LeetCode**](https://github.com/a7medayman6/100-Days-of-LeetCode): Collection of solutions for LeetCode problems.
-- [**Path Finding Visualizer**](https://github.com/a7medayman6/Path-Finding-Algorithms-Visualisation): Interactive visualization of pathfinding algorithms.
-- [**BFS Visualization**](https://github.com/a7medayman6/Breadth-First-Search-Visualization): Breadth-First Search algorithm visualizer.
-- [**DFS Visualization**](https://github.com/a7medayman6/Depth-First-Search-Visualization): Depth-First Search algorithm visualizer.
-- [**Sudoku Solver**](https://github.com/a7medayman6/Sudoku-Generator-and-Solver): Sudoku generator and solver algorithm.
-
-### 🛡️ Security & Tools
-*Penetration Testing and Network Tools*
-
-- [**Spidering Tool**](https://github.com/a7medayman6/Spidering-Tool): Web crawler for information gathering.
-- [**Dirbuster**](https://github.com/a7medayman6/dirbuster): Directory brute-forcing tool.
-- [**Connection Checker**](https://github.com/a7medayman6/Connection-Checker): Network connectivity testing tool (Ping).
-- [**Self Replicating Virus**](https://github.com/a7medayman6/Self-Replicating-Virus): Educational Bash script demonstrating replication.
-- [**Over The Wire Writeups**](https://github.com/a7medayman6/Over-The-Wire_leviathan-): Solutions for Leviathan wargames.
-
-### 🎮 Game Development
-*Interactive Experiences and Game Logic*
-
-- [**Pong (Unity)**](https://github.com/a7medayman6/Pong-Unity): Classic Pong game recreated in Unity.
-- [**Trapped (Unity)**](https://github.com/a7medayman6/Trapped): Game Jam project built with Unity.
-- [**Pacman (C++ & SFML)**](https://github.com/a7medayman6/PacMan-with-impossible-mode): Pacman clone featuring an "impossible mode".
-
-### 🎨 Other Creative Works
-*Mobile Apps, Art, and Low-Level Programming*
-
-- [**Android Todo List**](https://github.com/a7medayman6/To-Do-List): Native Android application for task management.
-- [**PI Digits Art**](https://github.com/a7medayman6/PI-Digits-Artworks): Generative art using Processing based on PI digits.
-- [**Todo UI Design**](https://github.com/a7medayman6/TO-DO-LIST-APP-UI): User interface design project in Adobe XD.
-- [**Assembly Cheat Sheet**](https://github.com/a7medayman6/Assembly-Cheat-Sheet): Quick reference guide for Assembly language.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a7medayman6&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=a7medayman6&theme=radical" alt="Ahmed's Streak" />
-</div>
+## Featured Projects
+
+### [env-box](https://github.com/a7medayman6/env-box) · [Live](https://env-box.vercel.app)
+Secrets management platform for development teams. AES-256 encryption per variable, granular team RBAC, audit logging, and environment promotion (Dev → Staging → Prod). Built with Next.js 14, TypeScript, MongoDB, Docker. Self-hosted or Vercel-deployable.
+
+> *Why it's here:* Shows full product ownership — security-aware architecture, team collaboration features, and a live production deployment.
+
+---
+
+### [Standuply](https://standuply.vercel.app)
+Async standup platform for small teams. Members join private workspaces, post text or voice updates, and managers receive an automated daily digest with team analytics. Built end-to-end: Node.js/Express/MongoDB backend, React/Vite frontend.
+
+> *Why it's here:* End-to-end product built solo — backend API, auth, real-time features, frontend, and deployment.
+
+---
+
+### [Tiny Git](https://github.com/a7medayman6/Tiny-Git) · [Tiny Redis](https://github.com/a7medayman6/Tiny-Redis) · [Tiny SQLite](https://github.com/a7medayman6/Tiny-SQLite)
+From-scratch implementations of production systems in Python:
+- **Tiny Git** — SHA-1 content-addressable DAG, staging index, diffing, commit traversal
+- **Tiny Redis** — multithreaded TCP server, RESP protocol, TTL expiration, disk persistence
+- **Tiny SQLite** — file format parsing, B-tree traversal, SELECT query execution
+
+> *Why it's here:* The best way to understand a system is to build it. These projects reflect how I approach production debugging — from first principles.
+
+---
+
+### [Musheer](https://play.google.com/store/apps/details?id=com.musheer.musheer&hl=en) — AI Arabic Sign Language Tutor
+Custom dataset (600 images/sign, multiple signers) → LSTM+CNN on MediaPipe Holistic keypoints → 91% accuracy → FastAPI backend → Production Android app. **50K+ downloads. First Place at ASU Innovates 2022.**
+
+> *Why it's here:* Custom dataset engineering, model architecture decisions, production API, and real distribution — not a tutorial project.
+
+---
+
+### [Microservices E-Voting System](https://github.com/a7medayman6/microservices-e-voting-system)
+4-service distributed system (Voting, Topics, Voters, Consumer) communicating via RabbitMQ async messaging. Per-service GitHub Actions CI/CD pipelines with Docker Hub publishing. Full Kubernetes manifests with ConfigMap-based config injection.
+
+> *Why it's here:* Clear microservices architecture diagram, message queue decoupling, and end-to-end CI/CD — good reference for distributed systems patterns.
+
+---
+
+## Production Engineering Experience
+
+**Bosta — Fulfillment Platform** *(Current)*
+NestJS microservices on GCP (Cloud Run + GKE + Pub/Sub). Processing 8K–14K+ daily orders (2.5M+ total). Saga orchestration across order/inventory/shipping services. Webhook ingestion at 2,000+ req/min with idempotency, event ordering, and a time-range replay API. Kubernetes CronJobs for distributed state autocorrection. clinic.js profiling → 30% reduction in order-to-ship cycle time.
+
+**Bosta / Sllr — Social Commerce Platform**
+Multi-tenant e-commerce backend for 25K+ merchants (1M+ orders). MySQL for relational commerce data, MongoDB for conversational state, Elasticsearch for product search. Built *Sllr Chat*: FSM-based order management bot with Redis hot state + MongoDB durable state + Pub/Sub-driven transitions → 1M+ conversations, 20M+ messages.
+
+**R&D Center — Defense**
+Re-architected Command & Control communication middleware: replaced synchronous RPC with Redis event-driven ecosystem (Pub/Sub, caching, disk snapshots, geospatial search) to support 50× peak message volume. +40% throughput. Containerized 8+ services with multi-stage Docker builds (60% smaller images). GitLab CI/CD with parallel test execution, -35% build time.
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=a7medayman6&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medayman6&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html,css" height="150" />
+</p>
+
+---
+
+*Open to remote backend engineering roles — APIs, distributed systems, platform engineering.*
